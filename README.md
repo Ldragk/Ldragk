@@ -21,8 +21,9 @@ My name is Lucas and my nickname is "Ldragk".<br><br><br>
   
 ## 
 
-<div style="display: inline-block" align="center">
-    <a href="https://github.com/Ldragk">
-        <img margin="0px" height="190em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldragk&layout=compact&langs_count=7&theme=midnight-purple"/></a><br>
+<div style="display: inline-block" align="center">    
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ldragk&theme=midnight-purple" style="max-width: 50%;">
+        <a href="https://github.com/Ldragk"><br>
+ ##
+        <img margin="0px" height="190em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldragk&layout=compact&langs_count=7&theme=midnight-purple"/></a>
 </div>

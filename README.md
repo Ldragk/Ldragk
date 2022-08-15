@@ -30,5 +30,5 @@ My name is Lucas and my nickname is "Ldragk".<br><br><br>
 ## 
 
 <div style="display: inline-block" align="center" >    
-        <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ldragk&theme=midnight-purple" ">
+        <img width="520em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ldragk&theme=midnight-purple" ">
 </div>

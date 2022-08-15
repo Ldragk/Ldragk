@@ -34,4 +34,7 @@ My name is Lucas and my nickname is "Ldragk".<br><br><br>
 </div>
 
 
-              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+ <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lucas-v-marangoni-350824238" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lucas-v-marangoni-350824238?trk=profile-badge">Lucas V. Marangoni</a></div>
+                                                                                                               
+                                                                                                   

@@ -27,7 +27,7 @@ My name is Lucas and my nickname is "Ldragk".<br><br><br>
     <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />                         
 </div><br>
   
-  <h1 align="center">À aprender</h1>
+  <h2 align="center">À aprender:</h2>
   
 <div align="center">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />           

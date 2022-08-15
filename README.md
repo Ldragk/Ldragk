@@ -1,3 +1,9 @@
+<div align="center"><strong>
+Hello! Welcome to my Github profile.<br>
+My name is Lucas and my nickname is "Ldragk".<br><br><br>
+</strong>
+</div>
+
 
 <div>
     <img alt="Lucasvm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />        

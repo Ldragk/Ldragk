@@ -1,8 +1,8 @@
-<div align="center"><strong>
+<h1 align="center"><strong>
 Hello! Welcome to my Github profile.<br>
 My name is Lucas and my nickname is "Ldragk".<br><br><br>
 </strong> 
-</div> 
+</h1> 
 
 <!-- Redes Sociais -->
 
@@ -25,7 +25,21 @@ My name is Lucas and my nickname is "Ldragk".<br><br><br>
     <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />        
     <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />                         
-</div>
+</div><br>
+  
+  <h1 align="center">À aprender</h1>
+  
+<div align="center">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />           
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />   
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />                              
+</div><br>
+  
   
 ## 
 

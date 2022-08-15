@@ -5,7 +5,7 @@ My name is Lucas and my nickname is "Ldragk".<br><br><br>
 </div>
 
 
-<div>
+<div align="center">
     <img alt="Lucasvm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />        
     <img alt="Lucasvm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img alt="Lucasvm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />                         
@@ -13,7 +13,7 @@ My name is Lucas and my nickname is "Ldragk".<br><br><br>
 
 ##
 
-<div> 
+<div align="center"> 
 
   <a href="https://www.linkedin.com/in/lucas-v-marangoni-350824238/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/>   
 

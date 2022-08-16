@@ -1,8 +1,7 @@
 <h1 align="center"><strong>
 Welcome to my Github profile.<br>
-My name is Lucas and my nickname is "Ldragk".<br><br><br>
-</strong> 
-</h1> 
+</strong></h1> 
+<h2 align="center"><strong>My name is Lucas and my nickname is "Ldragk".</strong></h2><br><br><br>
 
 <!-- Redes Sociais -->
 

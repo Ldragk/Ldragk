@@ -9,8 +9,8 @@ Welcome to my Github profile.<br>
     
     
     
-    - Full Stack ProgramadorBR (30%);
-    - Discover RocketSeat. (Fundamentar - 14%)
+   - Full Stack ProgramadorBR (30%);
+   - Discover RocketSeat. (Fundamentar - 14%)
     
 </p>
 

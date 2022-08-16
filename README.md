@@ -5,7 +5,7 @@ Welcome to my Github profile.<br>
 
 <p> Estou iniciando minha carreira como Desenvolvedor Web, no momento cursando:
     
-    - Full Staks ProgramadorBR;
+    - Full Stack ProgramadorBR;
     - Discover RocketSeat;
     
 </p>

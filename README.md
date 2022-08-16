@@ -3,6 +3,13 @@ Welcome to my Github profile.<br>
 </strong></h1> 
 <h2 align="center"><strong>My name is Lucas and my nickname is "Ldragk".</strong></h2><br><br><br>
 
+<p> Estou iniciando minha carreira como Desenvolvedor Web, no momento cursando:
+    
+    - Full Staks ProgramadorBR;
+    - Discover RocketSeat;
+    
+</p>
+
 <!-- Redes Sociais -->
 
 <div align="center">  

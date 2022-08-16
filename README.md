@@ -1,18 +1,20 @@
 <h1 align="center"><strong>
-Welcome to my Github profile.<br>
+Bem vindo(a) ao meu perfil do GitHub.<br>
 </strong></h1> 
-<h2 align="center"><strong>My name is Lucas and my nickname is "Ldragk".</strong></h2><br><br><br>
+<br><br><br>
 
-<p> I'am starting my carrer as a Web Developer.
+##
+
+<p>Estou iniciando na profissão de Desenvolvedor Web.
     
-   Currently studying:
-    
-    
+   Atualmente cursando:    
     
    - Full Stack ProgramadorBR (30%);
    - Discover RocketSeat. (Fundamentar - 14%)
     
 </p>
+
+##
 
 <!-- Redes Sociais -->
 

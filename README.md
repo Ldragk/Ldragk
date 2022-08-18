@@ -9,7 +9,7 @@ Bem vindo(a) ao meu perfil do GitHub.<br>
     
    Atualmente cursando:    
     
-   - Full Stack ProgramadorBR;
+   - Full Stack Programador BR;
    - Discover RocketSeat.
     
 </p>

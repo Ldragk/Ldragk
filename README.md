@@ -10,7 +10,7 @@ Bem vindo(a) ao meu perfil do GitHub.<br>
    Atualmente cursando:    
     
    - Full Stack ProgramadorBR (30%);
-   - Discover RocketSeat. (Fundamentar - 14%)
+   - Discover RocketSeat. (Fundamentar - 20%)
     
 </p>
 

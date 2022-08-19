@@ -4,7 +4,7 @@ Bem vindo(a) ao meu perfil do GitHub.<br>
 
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/101952043/185689784-4fc99318-674f-4b6f-b5bf-93b6b782db0e.png" width="200px">
+    <img src="https://user-images.githubusercontent.com/101952043/185689784-4fc99318-674f-4b6f-b5bf-93b6b782db0e.png" width="150px">
 </div>
 
 ##

@@ -10,9 +10,9 @@ Bem vindo(a) ao meu perfil do GitHub.<br>
     
    Atualmente cursando:    
     
-   - Full Stack Programador BR;
-   - Discover RocketSeat.
-   - Analise e Desenvolvimento de Sistemas (UVV)
+   - Full Stack - Programador BR;
+   - Discover - RocketSeat.
+   - Analise e Desenvolvimento de Sistemas - UVV
     
 </p>
 

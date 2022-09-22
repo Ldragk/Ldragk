@@ -39,7 +39,8 @@ Bem vindo(a) ao meu perfil do GitHub.<br>
 <div align="center">
     <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />        
     <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />                         
+    <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /><br>
+    <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </div><br>
   
   <h2 align="center">À aprender:</h2>

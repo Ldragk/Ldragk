@@ -2,9 +2,15 @@
 Bem vindo(a) ao meu perfil do GitHub.<br>
 </strong></h1> 
 
+<!-- Redes Sociais -->
+
+<div align="center">  
+    <a target="_blank" href = "mailto:lucasvm.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    
+    <a target="_blank" href="https://www.linkedin.com/in/lucas-v-marangoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+    <a target="_blank" href="https://www.instagram.com/ldragk.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>   
+</div> 
 
 ##
-
 
 <p>Estou iniciando na profissão de Desenvolvedor Web.
     
@@ -18,60 +24,38 @@ Bem vindo(a) ao meu perfil do GitHub.<br>
 
 ##
 
-<!-- Redes Sociais -->
+<!-- Tecnologias -->
 
-<div align="center">  
-    <a href = "mailto:lucasvm.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
-    <a href="https://www.linkedin.com/in/lucas-v-marangoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-    <a href="https://www.instagram.com/ldragk.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
-</div> 
+<div style="display: inline-block" align="center">
 
-##
+<p><strong>Tecnologias e Ferramentas</strong></p>
+
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="html5" />        
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/>
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3"/>
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailWind-CSS"/>
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> 
+    
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
+
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+    
+</div><br><br>
+  
 
 
 <div style="display: inline-block" align="center" >            
         <img width="500em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldragk&layout=compact&langs_count=7&theme=midnight-purple"/></a>
-</div> <br>
+</div> <br><br><br>
+                                                                                                                      
+                                                                                                                     
 
-
-<!-- Tecnologias -->
-
-<div align="center">
-    
-  <h2 align="center">Front-end</h2>
-    
-    <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />        
-    <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /><br>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-    <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-
-<h2 align="center">Back-end</h2>
- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><br>   
-  
-  <h2 align="center">Versionamento</h2>
-     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
- </div><br>
-
-  <h2 align="center">À aprender:</h2>
-  
-<div align="center">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />           
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />     
-</div><br>
-  
-  
-## 
-
-<div style="display: inline-block" align="center" >    
-        <img width="520em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ldragk&theme=midnight-purple" ">
-</div>
-
+<div align="center">  
+    <a target="_blank" href = "mailto:lucasvm.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    
+    <a target="_blank" href="https://www.linkedin.com/in/lucas-v-marangoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+    <a target="_blank" href="https://www.instagram.com/ldragk.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>   
+</div> 
 
                                                                                                                
                                                                                                    

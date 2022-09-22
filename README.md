@@ -1,5 +1,5 @@
 <h1 align="center"><strong>
-Bem vindo(a) ao meu perfil do GitHub.<br>
+Bem vindo(a) ao meu perfil do GitHub <br>
 </strong></h1> 
 
 <!-- Redes Sociais -->
@@ -16,8 +16,8 @@ Bem vindo(a) ao meu perfil do GitHub.<br>
     
    Atualmente cursando:    
     
-   - Full Stack - Programador BR;
-   - Discover - RocketSeat.
+   - Full Stack - Programador BR
+   - Discover - RocketSeat
    - Analise e Desenvolvimento de Sistemas - UVV
     
 </p>

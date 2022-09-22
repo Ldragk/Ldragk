@@ -46,14 +46,15 @@ Bem vindo(a) ao meu perfil do GitHub.<br>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
     <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img alt="Lucasvm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</div><br>
 
 <h2 align="center">Back-end</h2>
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><br>   
   
   <h2 align="center">Versionamento</h2>
-     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br>
+     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
+ </div><br>
+
   <h2 align="center">À aprender:</h2>
   
 <div align="center">

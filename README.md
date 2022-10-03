@@ -12,7 +12,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 ##
 
-<p>Estou iniciando na profissão de Desenvolvedor Web.
+<p>Estou iniciando na profissão de Desenvolvedor de Sistemas.
     
    Atualmente cursando:    
     

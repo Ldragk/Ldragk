@@ -43,20 +43,25 @@ Bem vindo(a) ao meu perfil do GitHub <br>
     
 </div><br><br>
 
-<div align="center">
-<img src="https://www.codewars.com/users/Ldragk/badges/large">
+<!-- CodeWars -->
+
+<div align="center" href="https://www.codewars.com/users/Ldragk">
+<a target="_blank" href="https://www.codewars.com/users/Ldragk"><img src="https://www.codewars.com/users/Ldragk/badges/large"></a>
 </div><br>
 
-<div align="center" >       
-    <img width="500em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldragk&layout=compact&langs_count=7&theme=midnight-purple"/></a>
+<!-- Linguagens Usadas -->
+
+<div align="center" >
+    
+   <img width="500em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldragk&layout=compact&langs_count=7&theme=midnight-purple"/></a>
 </div> <br><br><br>
                                                                                                                       
-                                                                                                                     
+<!-- Redes sociais -->                                                                                                                     
 
 <div align="center">  
     <a target="_blank" href = "mailto:lucasvm.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    
     <a target="_blank" href="https://www.linkedin.com/in/lucas-v-marangoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-    <a target="_blank" href="https://www.instagram.com/ldragk.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>   
+   <!-- <a target="_blank" href="https://www.instagram.com/ldragk.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>   -->
 </div> 
 
                                                                                                                

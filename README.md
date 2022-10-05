@@ -30,7 +30,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 <h2><strong>Tecnologias e Ferramentas</strong></h2>
 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="html5" />        
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" />        
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>
 <!-- <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/> -->
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3"/> 
@@ -42,11 +42,13 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
     
 </div><br><br>
-  
 
+<div align="center">
+<img src="https://www.codewars.com/users/Ldragk/badges/large">
+</div><br>
 
-<div style="display: inline-block" align="center" >            
-        <img width="500em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldragk&layout=compact&langs_count=7&theme=midnight-purple"/></a>
+<div align="center" >       
+    <img width="500em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldragk&layout=compact&langs_count=7&theme=midnight-purple"/></a>
 </div> <br><br><br>
                                                                                                                       
                                                                                                                      

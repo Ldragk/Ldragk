@@ -26,11 +26,13 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 <!-- Tecnologias -->
 
-Estou me aperfeiçoando em JavaScript, enquanto aprendo NodeJS e TypeScript
 
 <div style="display: inline-block" align="center">
 
 <h2><strong>Tecnologias e Ferramentas</strong></h2>
+    
+    <p>Estou me aperfeiçoando em JavaScript, enquanto aprendo NodeJS e TypeScript</p>
+
 
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" />        
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>

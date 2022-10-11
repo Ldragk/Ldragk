@@ -26,6 +26,8 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 <!-- Tecnologias -->
 
+Estou me aperfeiçoando em JavaScript, enquanto aprendo NodeJS e TypeScript
+
 <div style="display: inline-block" align="center">
 
 <h2><strong>Tecnologias e Ferramentas</strong></h2>

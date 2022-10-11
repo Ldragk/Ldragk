@@ -12,7 +12,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 ##
 
-<p>Estou iniciando na profissão de Desenvolvedor de Sistemas.
+<p>Estou iniciando na profissão de Desenvolvedor de Sistemas web, nesse momento quero aprender tanto tecnologias front-end, quanto back-end, mas futuramente me especializar no back-end, e ainda mais na área de segurança.
     
    Atualmente cursando:    
     

@@ -32,28 +32,32 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 ##
 
-<!-- Tecnologias -->
 
+<!-- Tecnologias -->
 
 <div style="display: inline-block" align="center">
 
-<h2><strong>Tecnologias e Ferramentas</strong></h2>
+
     
+<h2>
+    <img width="140em" src="https://github.com/Ldragk/.github/blob/main/92b006644a805adc7d06a70a4cd190b1-removebg-preview.png?raw=true"><br>
+    <strong>Tecnologias e Ferramentas</strong>
+</h2>    
 <p> Estou me aperfeiçoando em JavaScript, enquanto aprendo NodeJS e TypeScript </p>
 
 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" />        
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/>
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3"/> 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailWind"/>
-<!-- <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> -->
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" />        
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3"/> 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailWind"/>
+<!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> -->
     
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
     
-</div><br><br>
+</div><br><br><br>
 
 <!-- CodeWars -->
 
@@ -71,7 +75,10 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <!-- Redes sociais -->                                                                                                                     
 
 <div>  
-    <img width="170em" src="https://github.com/Ldragk/.github/blob/main/313ed4273882b810b87cc77cced80679-removebg-preview.png?raw=true">    
+   
+   <div align="center"> 
+     <img width="170em" src="https://github.com/Ldragk/.github/blob/main/313ed4273882b810b87cc77cced80679-removebg-preview.png?raw=true">
+   </div>    
     <div align="center">  
     <a target="_blank" href = "mailto:lucasvm.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    
     <a target="_blank" href="https://www.linkedin.com/in/lucas-v-marangoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   

@@ -61,7 +61,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <!-- CodeWars -->
 
 <div align="center" href="https://www.codewars.com/users/Ldragk">
-<a target="_blank" title="Clique na imagem para abrir meu perfil do CodeWar" href="https://www.codewars.com/users/Ldragk"><img src="https://www.codewars.com/users/Ldragk/badges/large"></a>
+<a target="_blank" title="Clique para abrir meu perfil do CodeWar" href="https://www.codewars.com/users/Ldragk"><img src="https://www.codewars.com/users/Ldragk/badges/large"></a>
 </div><br>
 
 <!-- Linguagens Usadas -->

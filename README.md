@@ -19,6 +19,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
    - Full Stack - Programador BR
    - Discover - RocketSeat
    - Analise e Desenvolvimento de Sistemas - UVV
+   - Do Bug ao Bounty - Pato Academy
     
 </p>
 

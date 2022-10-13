@@ -14,9 +14,8 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 <p>Estou iniciando na profissão de Desenvolvedor de Sistemas, nesse momento quero aprender tudo, front-end e back-end, mas futuramente me especializar no back-end e ainda mais na área de segurança.
     
-   Atualmente cursando:    
-    
-   - Full Stack - Programador BR
+   Atualmente cursando:      
+
    - Discover - RocketSeat
    - Analise e Desenvolvimento de Sistemas - UVV
    - Do Bug ao Bounty - Pato Academy

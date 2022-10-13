@@ -7,6 +7,9 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <!-- Redes Sociais -->
 
 <div align="center">  
+   
+<img width="250em" src="https://github.com/Ldragk/.github/blob/main/042afc68eee2ca78de3e3b4d7de80b96-removebg-preview.png?raw=true">
+<br>
 <a target="_blank" href = "mailto:lucasvm.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    
 <a target="_blank" href="https://www.linkedin.com/in/lucas-v-marangoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 <!--    <a target="_blank" href="https://www.instagram.com/ldragk.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>   -->
@@ -14,9 +17,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 <br>
 
-<div align="center">
-<img width="220em" src="https://github.com/Ldragk/.github/blob/main/042afc68eee2ca78de3e3b4d7de80b96-removebg-preview.png?raw=true">
-</div>
+
 
 <br>
 
@@ -45,17 +46,17 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 </h2>    
 <p> Estou me aperfeiçoando em JavaScript, enquanto aprendo NodeJS e TypeScript </p>
 
-
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" />        
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3"/> 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailWind"/>
+<br>
+<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" />        
+<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/>
+<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3"/> 
+<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailWind"/>
 <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> -->
     
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
+<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
     
 </div><br><br><br>
 

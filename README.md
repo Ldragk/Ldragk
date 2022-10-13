@@ -40,10 +40,10 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 <div style="display: inline-block" align="center">
     
-<h2>
+<h1>
     <img width="140em" src="https://github.com/Ldragk/.github/blob/main/92b006644a805adc7d06a70a4cd190b1-removebg-preview.png?raw=true"><br>
     <strong>Tecnologias e Ferramentas</strong>
-</h2>    
+</h1>    
 <p> Estou me aperfeiçoando em JavaScript, enquanto aprendo NodeJS e TypeScript </p>
 
 <br>

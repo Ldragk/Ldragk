@@ -37,8 +37,6 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <!-- Tecnologias -->
 
 <div style="display: inline-block" align="center">
-
-
     
 <h2>
     <img width="140em" src="https://github.com/Ldragk/.github/blob/main/92b006644a805adc7d06a70a4cd190b1-removebg-preview.png?raw=true"><br>
@@ -78,7 +76,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <div>  
    
    <div align="center"> 
-     <img width="170em" src="https://github.com/Ldragk/.github/blob/main/313ed4273882b810b87cc77cced80679-removebg-preview.png?raw=true">
+     <img width="200em" src="https://github.com/Ldragk/.github/blob/main/313ed4273882b810b87cc77cced80679-removebg-preview.png?raw=true">
    </div>    
     <div align="center">  
     <a target="_blank" href = "mailto:lucasvm.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    

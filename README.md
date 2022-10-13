@@ -39,7 +39,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript"/>
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3"/> 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailWind-CSS"/>
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailWind"/>
 <!-- <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> -->
     
 <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" />
@@ -51,7 +51,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <!-- CodeWars -->
 
 <div align="center" href="https://www.codewars.com/users/Ldragk">
-<a target="_blank" href="https://www.codewars.com/users/Ldragk"><img src="https://www.codewars.com/users/Ldragk/badges/large"></a>
+<a target="_blank" title="Clique na imagem para abrir meu perfil do CodeWar" href="https://www.codewars.com/users/Ldragk"><img src="https://www.codewars.com/users/Ldragk/badges/large"></a>
 </div><br>
 
 <!-- Linguagens Usadas -->

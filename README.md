@@ -8,7 +8,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 <div align="center">  
 
-<img width="250em" src="https://github.com/Ldragk/.github/blob/main/042afc68eee2ca78de3e3b4d7de80b96-removebg-preview.png?raw=true">
+<img width="230em" src="https://github.com/Ldragk/.github/blob/main/042afc68eee2ca78de3e3b4d7de80b96-removebg-preview.png?raw=true">
 <br>
 <a target="_blank" href = "mailto:lucasvm.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>    
 <a target="_blank" href="https://www.linkedin.com/in/lucas-v-marangoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   

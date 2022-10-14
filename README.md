@@ -26,9 +26,10 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <br>
    
 <strong> Atualmente cursando: </strong>  
-
+   - Full Stack - ProgramadorBR
    - Discover - RocketSeat
    - Analise e Desenvolvimento de Sistemas - UVV
+   - Do Bug ao Bounty - Pato Academy
    
     
 </p>

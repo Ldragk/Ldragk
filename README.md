@@ -40,9 +40,9 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 <div style="display: inline-block" align="center">
     
-<h1>
+<h2>
     <strong>Tecnologias e Ferramentas</strong>
-</h1>   
+</h2>   
    
 <img width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
 <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>

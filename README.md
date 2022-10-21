@@ -22,7 +22,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <br>
 
 <div align="center" href="https://ldragk.github.io/Curriculo">
-<a target="_blank" href="https://ldragk.github.io/Curriculo/">Meu Currículo</a>
+<a target="_Blank" href="https://ldragk.github.io/Curriculo/">Meu Currículo</a>
 </div>
 
 <!--

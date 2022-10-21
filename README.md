@@ -20,6 +20,11 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <p>Estou iniciando na profissão de Desenvolvedor de Sistemas, nesse momento estou a aprender front-end e back-end, futuramente pretendo me especializar no back-end e principamente na parte de segurança.
 
 <br>
+
+<div align="center" href="https://ldragk.github.io/Curriculo">
+<a target="_blank" href="https://ldragk.github.io/Curriculo/">Meu Currículo</a>
+</div>
+
 <!--
 <strong> Atualmente cursando: </strong>    
    - Full Stack - Programador BR

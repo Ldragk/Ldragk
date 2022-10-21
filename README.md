@@ -48,8 +48,6 @@ Bem vindo(a) ao meu perfil do GitHub <br>
     <strong>Tecnologias e Ferramentas</strong>
 </h1>   
    
-<p> Estou me aperfeiçoando em JavaScript, enquanto aprendo NodeJS e TypeScript </p>
-
 <br>
 <img width="47px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
 <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript"/>

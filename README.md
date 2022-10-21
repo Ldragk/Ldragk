@@ -22,7 +22,9 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <br>
 
 <div align="center" href="https://ldragk.github.io/Curriculo">
+<img width="80px" src="https://github.com/Ldragk/.github/blob/main/kisspng-rsum-curriculum-vitae-computer-icons-cover-let-cv-icons-5b331d0ae3b255.8222695115300764269327-removebg-preview.png?raw=true"><br>
 <a target="_Blank" href="https://ldragk.github.io/Curriculo/">Meu Currículo</a>
+
 </div>
 
 <!--

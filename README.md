@@ -15,11 +15,9 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 
 
-<br>
-
 
 <div align="center" href="https://ldragk.github.io/Portifolio">
-<a target="_Blank" href="https://ldragk.github.io/Portifolio/"> <img title="Clique para abrir" width="100px" src="[https://github.com/Ldragk/.github/blob/main/kisspng-rsum-curriculum-vitae-computer-icons-cover-let-cv-icons-5b331d0ae3b255.8222695115300764269327-removebg-preview.png?raw=true](https://github.com/Ldragk/.github/blob/main/PORTF%C3%93LIO.png)"></a>
+<a target="_Blank" href="https://ldragk.github.io/Portifolio/"> <img title="Clique para abrir" width="125" src="https://github.com/Ldragk/.github/blob/main/PORTF%C3%93LIO.png"></a>
 </div>
 
 <!--

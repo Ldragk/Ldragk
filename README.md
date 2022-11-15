@@ -17,7 +17,7 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 
 
 <div align="center" href="https://ldragk.github.io/Portifolio">
-<a target="_Blank" href="https://ldragk.github.io/Portifolio/"> <img title="Clique para abrir" width="125" src="https://github.com/Ldragk/.github/blob/main/PORTF%C3%93LIO.png"></a>
+<a target="_Blank" href="https://ldragk.github.io/Portifolio/"> <img title="PORTFÓLIO" width="125" src="https://github.com/Ldragk/.github/blob/main/PORTF%C3%93LIO.png"></a>
 </div>
 
 <!--

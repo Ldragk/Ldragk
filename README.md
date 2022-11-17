@@ -14,23 +14,10 @@ Bem vindo(a) ao meu perfil do GitHub <br>
 <br>
 
 
-<!--
-<strong> Atualmente cursando: </strong>    
-   - Full Stack - Programador BR
-   - Discover - RocketSeat
-   - Analise e Desenvolvimento de Sistemas - UVV
-   - Do Bug ao Bounty - Pato Academy
--->
-    
 </p>
 
 
 <br>
-<!-- CodeWars -->
-
-<div align="center" href="https://www.codewars.com/users/Ldragk">
-<a target="_blank" title="Clique para abrir meu perfil do CodeWar" href="https://www.codewars.com/users/Ldragk"><img src="https://www.codewars.com/users/Ldragk/badges/large"></a>
-</div><br>
 
 <!-- Linguagens Usadas -->
 
